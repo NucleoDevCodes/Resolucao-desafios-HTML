@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#listaTarefas {
+    list-style: none;
+    padding: 0;
+}
+
+#listaTarefas li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#listaTarefas li button {
+    margin-left: 5px;
+}
