@@ -1,0 +1,19 @@
+/* Estilo padrão (modo claro) */
+body {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Estilo para o modo escuro */
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+button {
+  margin: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
