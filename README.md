@@ -6,25 +6,25 @@ Este repositório contém soluções práticas para desafios utilizando apenas H
 📌 Lista de Desafios
 #	Nome do Desafio	Tecnologias	Nível	Link
 
-1	Página de Login Simples	HTML, CSS	Iniciante	🔗
+1-	Página de Login Simples	HTML, CSS	Iniciante	🔗
 
-2	Relógio Digital	HTML, CSS, JS	Iniciante	🔗
+2-	Relógio Digital	HTML, CSS, JS	Iniciante	🔗
 
-3	Conversor de Moeda	HTML, CSS, JS	Intermediário	🔗
+3-	Conversor de Moeda	HTML, CSS, JS	Intermediário	🔗
 
-4	Calculadora	HTML, CSS, JS	Intermediário	🔗
+4-	Calculadora	HTML, CSS, JS	Intermediário	🔗
 
-5	To-do List (Lista de Tarefas)	HTML, CSS, JS	Intermediário	🔗
+5-	To-do List (Lista de Tarefas)	HTML, CSS, JS	Intermediário	🔗
 
-6	Jogo da Velha	HTML, CSS, JS	Avançado	🔗
+6-	Jogo da Velha	HTML, CSS, JS	Avançado	🔗
 
-7	Modal Animado	HTML, CSS, JS	Intermediário	🔗
+7-	Modal Animado	HTML, CSS, JS	Intermediário	🔗
 
-8	Validação de Formulário	HTML, CSS, JS	Iniciante	🔗
+8-	Validação de Formulário	HTML, CSS, JS	Iniciante	🔗
 
-9	Carrossel de Imagens	HTML, CSS, JS	Intermediário	🔗
+9-	Carrossel de Imagens	HTML, CSS, JS	Intermediário	🔗
 
-10	Site Responsivo com Menu	HTML, CSS, JS	Intermediário	🔗
+10-	Site Responsivo com Menu	HTML, CSS, JS	Intermediário	🔗
 
 
 ## 🚀 Como usar
